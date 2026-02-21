@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: Cloud-Non-Relational-Databases-in-Action
+
+  mongodb:
+    host: localhost
+    port: 13500
+    database: eca
+    username: <your-username>
+    password: <your-password>
+    authentication-database: admin
+
+  data:
+    rest:
+      base-path: /api/v1
