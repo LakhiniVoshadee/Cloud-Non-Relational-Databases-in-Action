@@ -1,3 +1,3 @@
 spring:
   mongodb:
-    uri: mongodb://root:BYzs4JjM7QPDlHpoUQ3qk7gBcdGtZcUwq_0qhpsgmc9ZXMni@23f87621-56fe-480d-bfc9-6f6ea46ef3de.asia-south1.firestore.goog:443/eca-6970?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
+    uri: mongodb://root:rYXXqz-VrewRXTSxe_1sYdwmNdC0eoMMXJcE0QgdBGPbz1Ed@4f53f7ae-1309-4296-b2bf-6f219675f983.asia-south1.firestore.goog:443/eca-customer?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
