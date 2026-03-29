@@ -3,7 +3,7 @@ spring:
     name: Cloud-Non-Relational-Databases-in-Action
 
   profiles:
-    active: gcp
+    active: dev
 
   data:
     rest:
